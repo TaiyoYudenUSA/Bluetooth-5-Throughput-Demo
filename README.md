@@ -19,6 +19,7 @@ http://www.yuden.co.jp/ut/product/category/module/EYSHCNZWZ.html
 To contact your Taiyo Yuden local sales office, visit http://www.ty-top.com/
 
 To purchase visit:
+
 http://www.avnet.com
 
 http://www.digikey.com
