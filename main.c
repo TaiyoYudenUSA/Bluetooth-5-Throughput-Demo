@@ -867,6 +867,7 @@ static void buttons_init(void)
 }
 
 
+#if 0
 /**@brief Function for enabling button input.
  */
 static void buttons_enable(void)
@@ -877,6 +878,7 @@ static void buttons_enable(void)
 }
 
 
+
 /**@brief Function for disabling button input.
  */
 static void buttons_disable(void)
@@ -885,6 +887,7 @@ static void buttons_disable(void)
     err_code = app_button_disable();
     APP_ERROR_CHECK(err_code);
 }
+#endif
 
 
 static void wait_for_event(void)
