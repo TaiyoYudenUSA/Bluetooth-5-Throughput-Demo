@@ -8,7 +8,7 @@ The main.c file in this repository is based on Nordic's ble_app_att_mtu_throughp
 For a detailed explanation on the sample app go to...
 http://infocenter.nordicsemi.com/topic/com.nordic.infocenter.sdk5.v13.0.0/ble_sdk_app_att_mtu.html?cp=4_0_2_4_1_1_0
 
-Watch the video tutorial: TBA
+Watch the video demo: https://youtu.be/D1SW_xIjnVM
 
 For additional details on the module, visit:
 
