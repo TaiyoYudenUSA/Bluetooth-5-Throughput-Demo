@@ -33,4 +33,5 @@ http://www.semiconductorstore.com
 http://www.ty-top.com
 
 How fast can it be?
+
 https://blog.bluetooth.com/exploring-bluetooth-5-how-fast-can-it-be?_ga=1.28544060.1051641921.1491931983
