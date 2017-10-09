@@ -17,7 +17,7 @@ For additional details on the module, visit:
 
 To contact your Taiyo Yuden local sales office, visit http://www.ty-top.com/
 
-To purchase visit:
+To purchase visit:    
 [Avnet](http://www.avnet.com)   
 [Digi-Key](http://www.digikey.com)      
 [Future Electronics](http://www.futureelectronics.com)    
