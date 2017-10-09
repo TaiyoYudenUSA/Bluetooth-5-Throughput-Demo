@@ -8,14 +8,14 @@ The main.c file in this repository is based on Nordic's ble_app_att_mtu_throughp
 For a detailed explanation on the sample app go to...
 [http://infocenter.nordicsemi.com/topic/com.nordic.infocenter.sdk5.v13.0.0/ble_sdk_app_att_mtu.html?cp=4_0_2_4_1_1_0](http://infocenter.nordicsemi.com/topic/com.nordic.infocenter.sdk5.v13.0.0/ble_sdk_app_att_mtu.html?cp=4_0_2_4_1_1_0)
 
-Watch the video demo: https://youtu.be/D1SW_xIjnVM
+Watch the video demo: [https://youtu.be/D1SW_xIjnVM](https://youtu.be/D1SW_xIjnVM)
 
 For additional details on the module, visit:    
 [http://www.yuden.co.jp/ut/product/category/module/EYSHSNZWZ.html](http://www.yuden.co.jp/ut/product/category/module/EYSHSNZWZ.html)
 [http://www.yuden.co.jp/ut/product/category/module/EYSHJNZWZ.html](http://www.yuden.co.jp/ut/product/category/module/EYSHJNZWZ.html)
 [http://www.yuden.co.jp/ut/product/category/module/EYSHCNZWZ.html](http://www.yuden.co.jp/ut/product/category/module/EYSHCNZWZ.html) 
 
-To contact your Taiyo Yuden local sales office, visit http://www.ty-top.com/
+To contact your Taiyo Yuden local sales office, visit [http://www.ty-top.com/](http://www.ty-top.com/)    
 
 To purchase visit:    
 [Avnet](http://www.avnet.com)   
