@@ -18,11 +18,16 @@ For additional details on the module, visit:
 To contact your Taiyo Yuden local sales office, visit http://www.ty-top.com/
 
 To purchase visit:
-[Avnet](http://www.avnet.com)  
+[Avnet](http://www.avnet.com)
+
 [Digi-Key](http://www.digikey.com)  
-[Future Electronics](http://www.futureelectronics.com)  
+
+[Future Electronics](http://www.futureelectronics.com) 
+
 [Mouser](http://www.mouser.com)  
-[Symmtery Eectronics](http://www.semiconductorstore.com)  
+
+[Symmtery Eectronics](http://www.semiconductorstore.com) 
+
 [Taiyo Yuden](http://www.ty-top.com)
 
 How fast can it be?  
