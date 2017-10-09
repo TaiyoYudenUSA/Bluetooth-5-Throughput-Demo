@@ -18,12 +18,12 @@ For additional details on the module, visit:
 To contact your Taiyo Yuden local sales office, visit http://www.ty-top.com/
 
 To purchase visit:
-[Avnet](http://www.avnet.com)
-[Digi-Key](http://www.digikey.com)
-[Future Electronics](http://www.futureelectronics.com)
-[Mouser](http://www.mouser.com)
-[Symmtery Eectronics](http://www.semiconductorstore.com)
+[Avnet](http://www.avnet.com)  
+[Digi-Key](http://www.digikey.com)  
+[Future Electronics](http://www.futureelectronics.com)  
+[Mouser](http://www.mouser.com)  
+[Symmtery Eectronics](http://www.semiconductorstore.com)  
 [Taiyo Yuden](http://www.ty-top.com)
 
-How fast can it be?
+How fast can it be?  
 [https://blog.bluetooth.com/exploring-bluetooth-5-how-fast-can-it-be?_ga=1.28544060.1051641921.1491931983](https://blog.bluetooth.com/exploring-bluetooth-5-how-fast-can-it-be?_ga=1.28544060.1051641921.1491931983)
