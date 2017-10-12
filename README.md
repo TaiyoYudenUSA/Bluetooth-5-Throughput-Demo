@@ -22,7 +22,7 @@ To purchase visit:
 [Digi-Key](http://www.digikey.com)      
 [Future Electronics](http://www.futureelectronics.com)    
 [Mouser](http://www.mouser.com)     
-[Symmtery Eectronics](http://www.semiconductorstore.com)    
+[Symmtery Electronics](http://www.semiconductorstore.com)    
 [Taiyo Yuden](http://www.ty-top.com)    
 
 How fast can it be?     
