@@ -10,7 +10,7 @@ For a detailed explanation on the sample app go to...
 
 Watch the video demo: [https://youtu.be/D1SW_xIjnVM](https://youtu.be/D1SW_xIjnVM)
 
-For additional details on the module, visit:    
+For additional details on the modules, visit:    
 [http://www.yuden.co.jp/ut/product/category/module/EYSHSNZWZ.html](http://www.yuden.co.jp/ut/product/category/module/EYSHSNZWZ.html)
 [http://www.yuden.co.jp/ut/product/category/module/EYSHJNZWZ.html](http://www.yuden.co.jp/ut/product/category/module/EYSHJNZWZ.html)
 [http://www.yuden.co.jp/ut/product/category/module/EYSHCNZWZ.html](http://www.yuden.co.jp/ut/product/category/module/EYSHCNZWZ.html) 
